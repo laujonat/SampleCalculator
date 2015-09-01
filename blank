@@ -1,0 +1,14 @@
+	
+		JButton[] convert1 = {	jbInv, jbsinh, jbcosh, jbtanh, jbpi, jbln, jbsin, jbcos, jbtan, jbmod,
+								jbLeftParenthesis, jbXSquared, jbXToY, jbXCubed, jblog, jbRightParenthesis,
+								jbNFactorial, jbYRoot, jbCubedRoot, jbTenToX	};
+		
+		
+		
+		JButton[] convert2 = { 	jbBackSpace, jb7, jb4, jb1, jb0, jbCE, jb8, jb5, jb2, jbC, jb9, jb6, jb3, jbDot, 
+								jbPlusMinus, jbDivide, jbMultiply, jbMinus, jbAdd, jbSquareRoot,
+								jbPercent, jbOneOverX, jbEquals		};
+								
+								
+								
+								Áª£¢°¤¦¥»¼Œ§¨ Ä¶Äúû©Æû÷ûÂÆö¿ÆÄÆû÷ûÄúÆ¥»¬ª»¼Ò»¼«öÆû¹¾ÆÉÆÄ«45¶§Ä46¶§47Ä867¶§45Ä¶§534ÄÆÂö¿ÄÆ¬«ö¿¹Æ§¶ûÄ¿¹ûªö¼­öªû¿¹Òû¶ÄÉÂû§µ³¶§Ä¹Â§­Ä¶¿ÔÒÂÉ¾Âû¿ÆŒ¬ö´
